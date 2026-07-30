@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Relief Hostel</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700;900&display=swap" rel="stylesheet">
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Cairo',sans-serif;
+}
+
+body{
+background:#111;
+color:white;
+}
+
+.hero{
+height:100vh;
+background:linear-gradient(rgba(0,0,0,.45),rgba(0,0,0,.75)),url("hero.jpg");
+background-size:cover;
+background-position:center;
+display:flex;
+justify-content:center;
+align-items:center;
+padding:20px;
+}
+
+.card{
+width:100%;
+max-width:420px;
+background:rgba(0,0,0,.35);
+backdrop-filter:blur(15px);
+border-radius:25px;
+padding:30px;
+text-align:center;
+}
+
+h1{
+color:#D4AF37;
+font-size:42px;
+margin-bottom:10px;
+}
+
+h2{
+margin-bottom:20px;
+}
+
+p{
+line-height:1.8;
+margin-bottom:25px;
+}.btn{
+display:block;
+padding:18px;
+margin:15px 0;
+border-radius:14px;
+text-decoration:none;
+font-size:20px;
+font-weight:bold;
+transition:.3s;
+}
+
+.book{
+background:#D4AF37;
+color:#000;
+}
+
+.book:hover{
+transform:scale(1.03);
+}
+
+.tiktok{
+background:#000;
+color:#fff;
+border:1px solid #555;
+}
+
+.info{
+margin-top:25px;
+line-height:2.2;
+font-size:18px;
+}
+
+</style>
+</head>
+
+<body>
+
+<section class="hero">
+
+<div class="card">
+
+<h1>RELIEF HOSTEL</h1>
+
+<h2>اكتشف تجربة إقامة استثنائية</h2>
+
+<p>
+بين أحضان الطبيعة... واحجز إقامتك اليوم.
+</p>
+
+<a class="btn book"
+href="https://gathern.co/r/dUwdGn"
+target="_blank">
+
+🏨 احجز الآن
+
+</a>
+
+<a class="btn tiktok"
+href="https://www.tiktok.com/@relief.hostel7?_r=1&_t=ZS-98DfZ9qfAJt"
+target="_blank">
+
+🎵 تابعنا على TikTok
+
+</a>
